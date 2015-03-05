@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/mb/src/sipo_digitalIO_timed'
+let g:netrw_dirhist_2='/home/mb/src/sipo_digitalIO_timed/src'
+let g:netrw_dirhist_3='/home/fnlocal/.subversion/auth/svn.username'
